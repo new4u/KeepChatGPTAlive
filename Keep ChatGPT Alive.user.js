@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         Keep ChatGPT Alive
-// @namespace    http://tampermonkey.net/
-// @version      0.2
+// @name         Keep ChatGPT Alive 保持ChatGPT一直有效
+// @namespace    https://github.com/new4u
+// @version      0.3
 // @description  Keeps ChatGPT responsive by automatically inputting a question every x minutes
-// @author       new4u本爷有空 https://github.com/new4u
+// @author       new4u本爷有空
 // @match        https://chat.openai.com/*
 // @updateURL    https://raw.githubusercontent.com/new4u/KeepChatGPTAlive/main/Keep%20ChatGPT%20Alive.user.js
 // @grant        none
+// @copyright    2015-2022, new4u
+// @license      GPL-3.0-only
 // ==/UserScript==
 
 (function () {
