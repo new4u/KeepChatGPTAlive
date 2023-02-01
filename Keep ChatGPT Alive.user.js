@@ -3,8 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Keeps ChatGPT responsive by automatically inputting a question every x minutes
-// @author       new4u本爷有空
+// @author       new4u本爷有空 https://github.com/new4u
 // @match        https://chat.openai.com/*
+// @updateURL    https://raw.githubusercontent.com/new4u/KeepChatGPTAlive/main/Keep%20ChatGPT%20Alive.user.js
 // @grant        none
 // ==/UserScript==
 
