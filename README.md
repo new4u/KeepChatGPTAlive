@@ -1,9 +1,15 @@
-ViSearch
+# Keep ChatGPT Alive
 A repo for Keeps ChatGPT responsive by automatically inputting a question every x minutes
 
 userscript in Tampermonkey
 
-How to contribute
+# This repo does solve one problem: 
+
+Make your ChatGPT alive!
+
+
+## How to contribute
+
 Please submit your updates through pull request, by following the instructions below:
 
   1. git clone https://github.com/new4u/KeepChatGPTAlive.git
