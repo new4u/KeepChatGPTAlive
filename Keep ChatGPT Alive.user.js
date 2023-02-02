@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         Keep ChatGPT Alive 保持ChatGPT一直有效
 // @namespace    https://github.com/new4u
-// @version      0.3
+// @version      0.4
 // @description  Keeps ChatGPT responsive by automatically inputting a question every x minutes
 // @author       new4u本爷有空
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=openai.com
+// @match        https://chat.openai.com/chat
+// @connect      chat.openai.com
 // @match        https://chat.openai.com/*
 // @updateURL    https://raw.githubusercontent.com/new4u/KeepChatGPTAlive/main/Keep%20ChatGPT%20Alive.user.js
 // @grant        none
